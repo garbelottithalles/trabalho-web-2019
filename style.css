@@ -45,7 +45,7 @@ video{}
     height:36px;
     width:180px;
     float:left;
-    background-image: url("../_img/topo-left.png");
+    background-image: url("./topo-left.png");
     background-repeat: no-repeat;
     background-position-x: left;
     background-position-y: center;
@@ -213,7 +213,7 @@ img.logo-meio{
     position:relative;
     float:left;
     height:284px;
-    width:33.333%;
+    width:33.3333%;
 }
 /* BOTOES LEFT DO C2*/
 .redb{
@@ -222,7 +222,7 @@ img.logo-meio{
     padding-left: 12px;
     padding-right: 12px;
     width: 356px;
-    background-image: url(../_img/redb.jpg);
+    background-image: url(./redb.jpg);
     color:white;
     cursor: pointer;
     background-size:100% 100%;
@@ -240,7 +240,7 @@ img.logo-meio{
     float:left;
     padding-left: 12px;
     padding-right: 12px;
-    background-image: url(../_img/grayb.jpg);
+    background-image: url(./grayb.jpg);
     background-size:100% 100%;
     height: 71px;
     line-height: 71px;
@@ -253,7 +253,7 @@ img.logo-meio{
     width: 356px;
 }
 .guide{
-    background-image: url(../_img/guide.png);
+    background-image: url(./guide.png);
     background-size: 100% 100%;
     width: 50px;
     height: 50px;
@@ -264,7 +264,7 @@ img.logo-meio{
     transform: translateY(-50%);
 }
 .support{
-    background-image: url(../_img/support.png);
+    background-image: url(./support.png);
     background-size: 100% 100%;	
     width: 50px;
     height: 50px;
@@ -280,7 +280,7 @@ img.logo-meio{
     padding-left: 12px;
     padding-right: 12px;
     width: 356px;
-    background-image: url(../_img/goldb.jpg);
+    background-image: url(./goldb.jpg);
     background-size:100% 100%;
     text-align: center;
     height: 71px;
