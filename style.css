@@ -131,6 +131,9 @@ ul{
     padding-inline-start: 0px;
     margin:0;
 }
+li.inicio{
+    color:#2d2825;
+}
 li{     
     display:inline-block;
     height:26px;
@@ -199,7 +202,7 @@ img.logo-meio{
 }
 .c2 .conteiner1{
     position:absolute;
-    top:400px;
+    top:55%;
     padding-top: 15px;
     padding-bottom:15px;
     padding-right:1%;
@@ -350,6 +353,42 @@ nav{display:none;}
 .topo-right{ margin-right:0;}
 .topo-left{display:none;}
 nav{display:none;}
+
+off-canvas-toggle{
+background: rgba(255,255,255,0.15);
+    border: 0;
+    padding: 0;
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+	z-index:100;
+}
+.btn{display: inline-block;
+    margin-bottom: 0;
+    font-weight: 700;
+    text-align: center;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    white-space: nowrap;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.7143;
+    border-radius: 3px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;}
+.fa{display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    width:12px;
+    height:14px;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;}
+
 .c1{padding-top: 10px; padding-bottom:10px;}
 .c2 .conteiner1{padding-top:10px; padding-bottom:10px; top:350px}
 .colum-1{width:100%;}
